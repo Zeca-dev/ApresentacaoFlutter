@@ -80,7 +80,7 @@ class FlutterConceitos1PageState extends State<FlutterConceitos1Page> {
                       Padding(
                         padding: EdgeInsets.only(left: 96.0),
                         child: TextCustomWidget(
-                          texto: '# React-Native/Swift/Kotlin (Compose)',
+                          texto: '# React-Native/SwiftUI/Kotlin (Compose)',
                           size: 22,
                         ),
                       ),
