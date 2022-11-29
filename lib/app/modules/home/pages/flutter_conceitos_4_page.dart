@@ -79,7 +79,7 @@ class FlutterConceitos4PageState extends State<FlutterConceitos4Page> {
                                       AssetImage('imagens/Zeca.jpg'),
                                 ),
                                 accountName: Text('José Carlos'),
-                                accountEmail: Text('F157988@bnb.gov.br'),
+                                accountEmail: Text('jcarlos@email.com'),
                               ),
                               ListTile(
                                 title: const Text('Item 1 do drawer'),
