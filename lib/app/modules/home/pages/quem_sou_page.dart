@@ -56,7 +56,7 @@ class QuemSouPageState extends State<QuemSouPage> {
                     texto: 'Hobby: Música',
                   ),
                   TextCustomWidget(
-                    texto: '8 anos de BNB!',
+                    texto: '9 anos de BNB!',
                   ),
                   TextCustomWidget(
                     texto: 'Estudar e aprender coisas novas.',
